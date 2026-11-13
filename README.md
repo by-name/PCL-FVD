@@ -11,3 +11,4 @@ Plain Craft Launcher (Fix Vanilla Download) / PCL-FVD（非官方第三方修改
 使用者须拥有Minecraft Java版合法授权；本工具不从非授权镜像托管游戏文件，游戏核心经 Microsoft/Mojang 授权源在正版会话下获取<br>
 用于离线绕过授权 = 违反 《Minecraft EULA》，与本仓库无关<br>
 原仓库：https://github.com/Meloong-Git/PCL<br>
+底包:2.00.0.1
