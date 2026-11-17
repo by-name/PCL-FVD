@@ -1,6 +1,6 @@
 # PCL-FVD
 
-[![哔哩哔哩](https://img.shields.io/badge/主页-BiliBili-00A4DB?style=flat&labelColor=444444&logoSize=auto)]([https://space.bilibili.com/11343203/dynamic](https://space.bilibili.com/3546379620190381?spm_id_from=333.1007.0.0))
+[![哔哩哔哩](https://img.shields.io/badge/主页-BiliBili-00A4DB?style=flat&labelColor=444444&logoSize=auto)]([https://space.bilibili.com/11343203/dynamic](https://space.bilibili.com/3546379620190381))
 
 原版 PCL为龙腾猫跃老师制作<br>
 Plain-Craft-Launcher Fix Vanilla Download 的源码仓库<br>
